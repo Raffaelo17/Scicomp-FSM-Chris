@@ -60,7 +60,7 @@ when main.c is running, the terminal will show us as the picture below:
 
 
 
-![IMG_2372](https://user-images.githubusercontent.com/115225767/209981054-84374234-64b6-4734-90cf-4be699399a29.jpg)
 
+![IMG_2372](https://user-images.githubusercontent.com/115225767/209981251-f0dacf65-e9dd-4e89-86df-4788b5780b6e.jpg)
 
 1.8 seconds is the seconds depending on their timer.
