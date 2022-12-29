@@ -61,6 +61,7 @@ when main.c is running, the terminal will show us as the picture below:
 
 
 
-![IMG_2372](https://user-images.githubusercontent.com/115225767/209981251-f0dacf65-e9dd-4e89-86df-4788b5780b6e.jpg)
+<img width="433" alt="Screen Shot 2022-12-29 at 11 26 27 PM" src="https://user-images.githubusercontent.com/115225767/209981438-b405fea4-5ede-4006-871a-7ce2eaa43816.png">
+
 
 1.8 seconds is the seconds depending on their timer.
