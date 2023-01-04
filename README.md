@@ -32,7 +32,7 @@ When state is in F4 it has four possible outcomes if given an input, the outcome
 
 
 
- Here is the State and Transition Table for the automatic transmission FSM and K-Map 1 and 2:
+ Here is the State and Transition Table for the information display FSM and K-Map 1 and 2:
  
  
  
