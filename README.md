@@ -16,7 +16,8 @@ F2: 01
 
 F3: 10
 
-F4; 11
+F4: 11
+
 
 When state is in F1 it has four possible outcomes if given an input, the outcomes after the input can be: Stay in F1, Change to F2, Change to F3, Change to F4.
 
