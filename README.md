@@ -1,14 +1,14 @@
 # SciComp-FP-FSM-Of-Information_Display_At_The_Mall-Christoffer-
 
 Firtsly, the chosen stae for Informatiom Display which is at the mall represents F1, F2, F3, F4.
-The diagram below shows the FSM of the transmission:
+The diagram below shows the FSM of the information display:
 
 
 ![IMG_2378](https://user-images.githubusercontent.com/115225767/209980476-cafabb62-a4dc-432c-af1e-b42a295c0305.JPG)
 
 
 It shows four stats  F1, F2, F3, F4. [FLoor 1, FLoor 2, FLoor 3, FLoor 4]
-In the automatic transmission FSM, the binary assignments are as below:
+In the information display FSM, the binary assignments are as below:
 
 F1: 00
 
