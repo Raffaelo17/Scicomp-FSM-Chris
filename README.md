@@ -63,7 +63,11 @@ when main.c is running, the terminal will show us as the picture below:
 
 
 
-https://user-images.githubusercontent.com/115225767/211458183-de696d6d-2cc3-4653-a07d-1455d2bec2a7.mov
+
+
+https://user-images.githubusercontent.com/115225767/213906296-8e6b27b6-95a3-4020-8c89-f747b56d8d6d.mov
+
+
 
 
 
