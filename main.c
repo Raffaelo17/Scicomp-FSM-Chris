@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#include "mylib/mylib.c"
 #include "mylib/mylib.h"
 
 int main()
@@ -16,7 +17,7 @@ int main()
              "|  First Floor  |\n"
              "=================\n");
       printf("\n\n\nFirst Floor!\n\n\n");
-      printf("Current state: %d%d\n", F1, F2);
+      printf("Current state: %d%d\n", F3, F4);
       printf("Output: %d%d\n", z1, z2);
       printf("Input: %d%d\n", y1, y2);
       printf("\n");
@@ -29,7 +30,7 @@ int main()
              "|  Second Floor  |\n"
              "==================\n");
       printf("\n\n\nSecond Floor!\n\n\n");
-      printf("Current state: %d%d\n", F1, F2);
+      printf("Current state: %d%d\n", F3, F4);
       printf("Output: %d%d\n", z1, z2);
       printf("Input: %d%d\n", y1, y2);
       printf("\n");
@@ -42,7 +43,7 @@ int main()
              "|  Third Floor   |\n"
              "==================\n");
       printf("\n\n\nThird Floor!\n\n\n");
-      printf("Current state: %d%d\n", F1, F2);
+      printf("Current state: %d%d\n", F3, F4);
       printf("Output: %d%d\n", z1, z2);
       printf("Input: %d%d\n", y1, y2);
       printf("\n");
@@ -55,7 +56,7 @@ int main()
              "|  Fourth Floor  |\n"
              "==================\n");
       printf("\n\n\nFourth Floor!\n\n\n");
-      printf("Current state: %d%d\n", F1, F2);
+      printf("Current state: %d%d\n", F3, F4);
       printf("Output: %d%d\n", z1, z2);
       printf("Input: %d%d\n", y1, y2);
       printf("\n");
@@ -97,3 +98,6 @@ int main()
   }
   return 0;
 }
+   
+   
+   
